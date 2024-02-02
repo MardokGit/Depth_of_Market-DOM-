@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\DepthMarket\Depth_of_Market\Depth_of_Market\main.cpp(60,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\DepthMarket\Depth_of_Market\Depth_of_Market\main.cpp(78,8): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\DepthMarket\Depth_of_Market\Depth_of_Market\main.cpp(81,8): warning C4101: of: неиспользованная локальная переменная
+  Depth_of_Market.vcxproj -> C:\DepthMarket\Depth_of_Market\x64\Debug\Depth_of_Market.exe
